@@ -23,7 +23,8 @@
 ## Part C: Workstation Interface Verification
 ### Evidence E4: Ubuntu Terminal Network Settings
 *Description: Terminal execution showing the output of 'ip -4 -br address' and 'ip route' proving successful lease acquisition.*
-![Evidence E4](path/to/your/e4_screenshot.png)
+<img width="970" height="636" alt="image" src="https://github.com/user-attachments/assets/c4c5a96a-5349-4de3-83af-b199fa12b767" />
+
 
 ---
 
