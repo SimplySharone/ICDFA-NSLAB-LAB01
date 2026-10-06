@@ -14,7 +14,8 @@
 
 ### Evidence E3: OPNsense Console Status
 *Description: Active OPNsense text console interface mapping showing LAN mapped to em0 (10.10.10.1/24) and WAN mapped to em1.*
-<img width="1109" height="718" alt="Screenshot 2026-10-06 220210" src="https://github.com/user-attachments/assets/9520c725-711d-4cc3-ab3b-a107294ba54e" />
+<img width="1056" height="713" alt="image" src="https://github.com/user-attachments/assets/915cb2f5-bdf3-4527-b463-9c322cdbc783" />
+
 
 
 ---
