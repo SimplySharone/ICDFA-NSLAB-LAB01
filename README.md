@@ -4,15 +4,18 @@
 ## Part A & B: VirtualBox & Firewall Initialization
 ### Evidence E1: Firewall Network Configuration
 *Description: VirtualBox network properties for the firewall appliance showing Adapter 1 on NAT and Adapter 2 attached to the Internal Network named 'ICDFA-LAN'.*
-![Evidence E1](path/to/your/e1_screenshot.png)
+<img width="1899" height="1042" alt="Screenshot 2026-10-06 215747" src="https://github.com/user-attachments/assets/1fdbada5-f457-4ad6-a82c-f47f243bd30a" />
+
 
 ### Evidence E2: Client Network Configuration
 *Description: VirtualBox network properties for the Ubuntu workstation showing Adapter 1 attached to the Internal Network named 'ICDFA-LAN'.*
-![Evidence E2](path/to/your/e2_screenshot.png)
+<img width="1894" height="1062" alt="Screenshot 2026-10-06 215935" src="https://github.com/user-attachments/assets/ffa1afcc-4fd6-4e3c-a2c8-a70ce7a7610d" />
+
 
 ### Evidence E3: OPNsense Console Status
 *Description: Active OPNsense text console interface mapping showing LAN mapped to em0 (10.10.10.1/24) and WAN mapped to em1.*
-![Evidence E3](path/to/your/e3_screenshot.png)
+<img width="1109" height="718" alt="Screenshot 2026-10-06 220210" src="https://github.com/user-attachments/assets/9520c725-711d-4cc3-ab3b-a107294ba54e" />
+
 
 ---
 
